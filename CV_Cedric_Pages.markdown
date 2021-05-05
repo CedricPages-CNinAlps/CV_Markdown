@@ -19,7 +19,7 @@ Maternelle ![Français](img/langues/fr.jpg "Français langue maternelle")  <br><
 Entreprise|Dates|Poste
 ---|---|---|
 ![OEFIC](img/entreprises/oefic.png "Cabinet OEFIC") |07/2019 - 07/2020|Assistant administratif et financier CIF <br> (Temps partiel)
-![WMB](img/entreprises/wmb.png "Webmarketing Booster") |01/2017 - 07/2019|Customer Success Manager & Chargé de projets E-Marketing/Webmarketing
+![WMB](img/entreprises/wmb.png "Webmarketing Booster"){height=30%} |01/2017 - 07/2019|Customer Success Manager & Chargé de projets E-Marketing/Webmarketing
 ![Césure](img/entreprises/dossier.jpg "Webmarketing Booster") |02/2014 - 12/2016|Gestion de dossiers familliaux
 ![GEM](img/entreprises/gem.jpg "Grenoble Ecole de Management") ![EIT-KIC](img/entreprises/kic.jpg "Kic InnoEnergy") |05/2010 - 01/2014|Manager de projets européens
 ![PV](img/entreprises/pv.jpg "Bureau d'études photovoltaïque") |12/2009 - 04/2010|Etude pour la création d’un bureau d’études photovoltaïque
