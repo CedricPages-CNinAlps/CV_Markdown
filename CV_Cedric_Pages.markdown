@@ -29,51 +29,33 @@ Entreprise|Dates|Poste
 ![CEA Liten](img/entreprises/liten.jpg "CEA Liten") |03/2006 - 06/2006|Stage : Élaboration et caractérisation de couches minces à base de carbone par dépôt chimique en phase vapeur amélioré par plasma pour les secteurs 
 
 ## Formations
+Ecole|Dates|Poste
+---|---|---|
+![CNITA](img/formations/campus_numerique.png "Campus numérique in the Alps") |10/2020 - 07/2021|Technicien développeur Web et applications (Bac +2)
+![LCGPI_FORMATION](img/formations/lcgpi_formation.png "LCGPI Formation") |12/2019|Certification de l’Autorité des Marchés Financiers
+![M2I](img/formations/m2i.jpg "M2i Formation") |2011|Formation Pro Construire un projet sous MS Project 2010
+![CNAM](img/formations/CNAM_Logo.svg.png "CNAM") |2009|Certificat Niveau M2 conjoint avec Grenoble INP-ENSE3 - Développement durable & photovoltaïque
+![IDRAC](img/formations/idrac.png "IDRAC Business School") |2007 - 2008|Master 1 Management, marketing & négociation B to B
+![UGA](img/formations/Logo_IUT1_2020_RVB.png "Université Grenoble in the Alps") |2007|DUT Génie mécanique, option Physique des matériaux
 
 ## Hobbies Sportif
+* Escrime
+  * Compétition
+  * Enseignement
+* Natation
+    * Compétition
+    * Enseignement
+    
+* Volley
+* Ski alpin
+* Randonnée 
+* Kayak
+* Voile
+* Planche à voile 
 
 ## Hobbies de réflexion & culture
-
-## Associatif & Civique
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/CedricPages-CNinAlps/CV_Markdown/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CedricPages-CNinAlps/CV_Markdown/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
+* Jeu de carte Magic
+* Jeux de go, dames, échecs
+* Escape game 
+* Les 7 arts majeurs
+* La lecture
